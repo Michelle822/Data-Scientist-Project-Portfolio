@@ -10,4 +10,9 @@ In this project, I did the analysis of Stack Overflow Survey Data 2017. You can 
 In this project, we are going to built a web app to do Machine Learning task, which is classifying a message. 
 
 ## 3. Data Scientist Capstone Project
-For the Capstone Project, I chose the “Optimizing App Offers With Starbucks” project, which basically trying to solve the problem on how to send the offer to the right customers. 
+For the Capstone Project, I chose the “Optimizing App Offers With Starbucks” project, which basically trying to solve the problem on how to send the offer to the right customers.
+
+## 3. Portfolio excercises
+1. Upload a package to Pypi  
+1. Deploy a Data Dashboard  
+1. Starbucks 
