@@ -1,0 +1,9 @@
+README.md
+setup.py
+algebra_easy/__init__.py
+algebra_easy/vector.py.py
+algebra_easy.egg-info/PKG-INFO
+algebra_easy.egg-info/SOURCES.txt
+algebra_easy.egg-info/dependency_links.txt
+algebra_easy.egg-info/not-zip-safe
+algebra_easy.egg-info/top_level.txt
